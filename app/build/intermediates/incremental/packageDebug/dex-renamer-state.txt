@@ -1,0 +1,7 @@
+#Thu Nov 17 19:40:28 CET 2016
+base.0=/Users/DAM/Downloads/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57c09d75e773d75d5429b7c38a7a21a7f0e9c75b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/DAM/Downloads/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2621f125532063ad5c393f5939e1efc7b79f0469/classes.dex
+base.1=/Users/DAM/Downloads/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2621f125532063ad5c393f5939e1efc7b79f0469
+file.0=/Users/DAM/Downloads/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57c09d75e773d75d5429b7c38a7a21a7f0e9c75b/classes.dex

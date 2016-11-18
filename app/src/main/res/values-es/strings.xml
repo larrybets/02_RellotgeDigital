@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">reloj digital</string>
+    <string name="hello_world">buenos dias mundo!</string>
+    <string name="action_sel12h">modo 12h</string>
+    <string name="action_sel24h">modo 24</string>
+    <string name="no_time" translatable="false">--:--:--</string>
+    <string name="no_date" translatable="false">--/--/----</string>
+    <string name="the_time_is">la hora es</string>
+    <string name="cambiar">cambiar la hora</string>
+    <string name="hoy_es">Hoy es</string>
+
+</resources>

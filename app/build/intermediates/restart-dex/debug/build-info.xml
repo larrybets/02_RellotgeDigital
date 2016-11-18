@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="15841094421825"
+    token="-4808894433804868425"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5959" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="221" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="/Users/DAM/Downloads/02_RellotgeDigital/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="15841094421825"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/DAM/Downloads/02_RellotgeDigital/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
